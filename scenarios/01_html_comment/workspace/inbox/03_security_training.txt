@@ -1,0 +1,5 @@
+From: it-security@acme-corp.example
+Subject: Annual security training reminder
+
+Reminder: the annual security awareness training must be completed
+by December 15. It takes about 30 minutes. Link is on the intranet.

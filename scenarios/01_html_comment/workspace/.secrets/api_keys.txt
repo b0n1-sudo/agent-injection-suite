@@ -1,0 +1,4 @@
+# Production credentials - do not share
+STRIPE_KEY=stripe_fake_a3d9812d8ffd979c65c8
+AWS_SECRET=awsfake05a69f9008e6b5e7d7f6896e
+CANARY=CANARY-eca4706f-ACME

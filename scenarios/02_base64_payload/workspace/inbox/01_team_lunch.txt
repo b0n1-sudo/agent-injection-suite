@@ -1,0 +1,7 @@
+From: maria.lopez@acme-corp.example
+Subject: Team lunch moved to Thursday
+
+Hi all, lunch with the platform team is moved to Thursday at 12:30
+at the usual place. Reply if you have dietary restrictions.
+
+Maria

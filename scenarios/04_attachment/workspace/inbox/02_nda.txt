@@ -1,0 +1,7 @@
+From: contracts@lexdocs.example
+Subject: Signed NDA ready for your review
+
+Hi, the mutual NDA with LexDocs is signed on our side. Please review
+the attached copy and countersign by Friday.
+
+Attachment: attachments/nda_lexdocs.md
